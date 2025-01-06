@@ -1,0 +1,24 @@
+[33mcommit e41d9dd91ad0d8b0e756c948fc693fb2589204f7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mkartik[m[33m, [m[1;31morigin/kartik[m[33m)[m
+Author: kartiksiriya27 <kartiksiriya27@gmail.com>
+Date:   Wed Jan 1 17:34:57 2025 +0530
+
+    Made By Kartik
+
+[1mdiff --git a/world11/players b/world11/players[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8bd41bd[m
+[1m--- /dev/null[m
+[1m+++ b/world11/players[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32mSachin Ramesh R[DTendulkar Ji[m
+[32m+[m[32mHashim Alma[m
+[32m+[m[32mJack Kallis[m
+[32m+[m[32mYuvraj Singh[m
+[32m+[m[32mRicky Ponting[m
+[32m+[m[32mMahendra singh dhoni [D[D[D[D[D[C[C[C[C[m
+[32m+[m[32mwaqar younas[m
+[32m+[m[32mwasim aakram[m
+[32m+[m[32mshohaib akthar[m
+[32m+[m[32m[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[C[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[m
+[32m+[m[32m[B[B[B[B[B[B[B[B[B[B[Ashane Warne[m
+[32m+[m[32mBumrah[m
